@@ -38,7 +38,7 @@ Each web page represents 3 points of the assignment. 1 additional point is avail
 
 # My Approach
 
-I decided to create a universal `<header>`, `<nav>`, and `<footer>` that was present on each of the three pages.  I practiced using `inline <ul>` that were styled using `:hover`. 
+First, I reset my styles by importing [Eric Meyers Reset stylesheet](http://meyerweb.com/eric/tools/css/reset/).  Next, I decided to create a universal `<header>`, `<nav>`, and `<footer>` that was present on each of the three pages.  I practiced using `inline <ul>` that were styled using `:hover`. 
 
 For **Page 1, a two column layout with fixed social media bar**, I placed a `background-image` as part of the CSS of a container.  For the social media bar, I imported from [We Love Fonts](http://weloveiconfonts.com/api/?family=entypo).  Additionally, I placed two short columns of text on the page. 
 
